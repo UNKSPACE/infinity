@@ -34,8 +34,8 @@ function Banner3 (props) {
                                             <div className="box-slider">
                                                 <div className="content-box">
                                                     <h1 className="title" >Rent Game Servers.
-                                                        We Donate Most Profits To Charities That
-                                                        Support Gamers.
+                                                        We Donate to Charity.
+                                            
                                                     </h1>
                                                     <p className="sub-title">NFTs and the metaverse are the future, but investing in the space isn’t easy. We make it simple.</p>
                                                     <div className="wrap-btn">
