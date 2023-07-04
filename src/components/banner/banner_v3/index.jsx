@@ -37,7 +37,7 @@ function Banner3 (props) {
                                                         We Donate to Charity.
                                             
                                                     </h1>
-                                                    <p className="sub-title">NFTs and the metaverse are the future, but investing in the space isn’t easy. We make it simple.</p>
+                                                    <p className="sub-title">Rent dedciated game servers we take 75% of profits & donate to gamer charity organization.</p>
                                                     <div className="wrap-btn">
                                                         <Link to="/project_list" className="tf-button style2">
                                                             LEARN MORE
