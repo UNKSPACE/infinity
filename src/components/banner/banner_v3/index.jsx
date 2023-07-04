@@ -33,7 +33,7 @@ function Banner3 (props) {
                                         <div className="col-md-12">
                                             <div className="box-slider">
                                                 <div className="content-box">
-                                                    <h1 className="title" >Rent Game Servers.
+                                                    <h1 className="title" >Rent Game Servers.<br>
                                                         We Donate to Charity.
                                             
                                                     </h1>
