@@ -64,7 +64,7 @@ const Header = () => {
                         }
                     </ul>
                 </nav>
-                <Button title='Sign-Up' path='/' addclass='style1'/>  
+                <Button title='Rent Server' path='/' addclass='style1'/>  
                 <div className={`mobile-button ${menuActive ? 'active' : ''}`} onClick={handleMenuActive}><span></span></div>
             </div>
         </div> 
