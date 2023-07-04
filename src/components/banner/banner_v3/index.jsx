@@ -45,9 +45,9 @@ function Banner3 (props) {
                                                     </div>
                                                     <div className="flat-box" > 
                                                         <div className="box-couter">
-                                                            <p>Potential project</p>
+                                                            <p>Available Game Servers</p>
                                                             <div className="number-content">
-                                                                <h6 className="count-number2">700+</h6>
+                                                                <h6 className="count-number2">20+</h6>
                                                             </div>
                                                         </div>
                                                         <div className="box-couter">
