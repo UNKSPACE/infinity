@@ -37,7 +37,7 @@ function Banner3 (props) {
                                                         We Donate to Charity.
                                             
                                                     </h1>
-                                                    <p className="sub-title">Rent dedciated game servers we take 75% of profits & donate to gamer charity organization.</p>
+                                                    <p className="sub-title">Rent dedciated game servers we take 75% of profits & donate to gamer oriented charity organizations.</p>
                                                     <div className="wrap-btn">
                                                         <Link to="/project_list" className="tf-button style2">
                                                             LEARN MORE
